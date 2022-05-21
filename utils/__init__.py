@@ -1,0 +1,2 @@
+
+result_path = None
