@@ -38,7 +38,7 @@ if __name__ == '__main__':
     print('creat the gif now!')
 
 
-    result_save_root = 'result/model_test'
+    result_save_root = save_path
     show_interval = 6
 
     if not os.path.exists('%s/img'%result_save_root):
