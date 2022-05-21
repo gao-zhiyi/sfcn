@@ -14,7 +14,7 @@ This tutorial depends on the following libraries:
 
 Also, this code should be compatible with Python versions 3.8
 
-
+![](https://github.com/Prevalenter/sfcn/blob/main/imgs/result.gif)
 
 ### Get Started
 
@@ -24,10 +24,8 @@ The trained model is already included in the repository and can be quickly run w
 python main.py --data_path data/1380
 ```
 
-the dataset used can be find here:
+the result gif will be save in result/.
 
-the result gif can be find in result directory.
 
-(Wave)
 
-(Wind)
+the dataset used can be find here: wave and [wind](https://rda.ucar.edu/datasets/ds094.2/#!access).
