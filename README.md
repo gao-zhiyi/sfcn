@@ -16,7 +16,7 @@ This tutorial depends on the following libraries:
 * Matplotlib
 * Numpy
 
-Also, this code should be compatible with Python versions 3.8
+Also, this code should be compatible with Python versions 3.8. Our code doesn't require the computer to have a GPU, nor even have pytorch installed.
 
 
 
