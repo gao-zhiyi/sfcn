@@ -36,4 +36,4 @@ the result gif will be save in result/.
 
 
 
-the dataset used can be find here: wave and [wind](https://rda.ucar.edu/datasets/ds094.2/#!access).
+the dataset used can be downloaded from [here](https://rda.ucar.edu/datasets/ds094.2/#!access).
