@@ -22,7 +22,7 @@ Also, this code should be compatible with Python versions 3.8. Our code doesn't 
 
 ### Get Started
 
-The trained model is already included in the repository and can be quickly run with the following command
+We prepare some data in the repo for user testing. The trained model is already included in the repository and can be quickly run with the following command
 
 ```
 python main.py --data_path data/1380
